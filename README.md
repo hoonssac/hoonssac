@@ -1,12 +1,20 @@
-![image](https://github.com/user-attachments/assets/1d4ed561-3279-4d38-b1bb-b0b5261c2a0c)
+
+
+<div>
+    <img src="https://github.com/user-attachments/assets/1d4ed561-3279-4d38-b1bb-b0b5261c2a0c" style="width:94%;"/>
+</div>
 
 
 
-![Hoonssac's GitHub stats](https://github-readme-stats-vert-ten-23.vercel.app/api?username=hoonssac&show_icons=true&theme=react)
+
+<div>
+    <img src="https://github-readme-stats-vert-ten-23.vercel.app/api?username=hoonssac&show_icons=true&theme=react" />
+</div>
 
 
-## ✉️ Contacts
+## 📬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoonssac@gmail.com)](mailto:hoonssac@gmail.com)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@b1uesoda/posts)](https://velog.io/@b1uesoda/posts)
 
 
 
@@ -26,5 +34,7 @@
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
 
-[![Hoonssac](https://github-readme-stats-vert-ten-23.vercel.app/api/top-langs/?username=hoonssac&layout=compact&theme=react)](https://github.com/delay-100/github-readme-stats)
+
+<img src="https://github-readme-stats-vert-ten-23.vercel.app/api/top-langs/?username=hoonssac&layout=compact&theme=react" />
+
 

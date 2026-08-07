@@ -9,7 +9,6 @@
 
 ## 📬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hoonssac@gmail.com)](mailto:hoonssac@gmail.com)
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@b1uesoda/posts)](https://velog.io/@b1uesoda/posts)
 
 
 
